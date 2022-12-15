@@ -1,0 +1,27 @@
+/*Body*/
+*{
+    margin:0;
+    padding:0;
+    align-items: center;
+    background-color: #F3EDEC;
+}
+
+h1{
+    text-align: center;
+    color: #FA8F2A;
+    margin-top: 5%;
+    font-family: 'Copperplate', sans-serif; 
+}
+h2{
+    margin-top: 15px;
+    text-align: center;
+    color: #FA8F2A;
+    font-family: 'Copperplate', sans-serif; 
+}
+img{
+    display: block;
+  width: 40%;
+  margin-top: 25px;
+  margin-left: auto;
+  margin-right: auto;
+}
